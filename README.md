@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**jvra99/jvra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola 👋
 
 ```
 Mi nombre es Javiera Ester Naranjo Toledo.
@@ -38,4 +35,3 @@ E-mail : [javiera.naranjo99@gmail.com](mailto:javiera.naranjo99@gmail.com)
 - Interacciones Humano-computador.
 - Tecnologías de aprendizaje.
 ```
--->
