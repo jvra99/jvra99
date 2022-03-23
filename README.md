@@ -24,9 +24,14 @@ E-mail : [javiera.naranjo99@gmail.com](mailto:javiera.naranjo99@gmail.com)
 **Antecedentes Laborales**
 
 - **(2019)** Laborante de la Directora de Escuela Marianna Villaroel realizando trabajos para apoyar a la asignatura INFO063.
-- **(2021)** Tutora del Taller Intermedio de programación en OCILabs con lenguaje C++. Este programa es del Ministerio de Educación que tiene como fin, darles herramientas de aprendizaje en el área de la programación a niños y jóvenes.
-- **(2020-2022)** Ayudante de los cursos INFO063 Introducción a la programación e INFO058 Programación, en los cuales se trabaja con el lenguaje Python.
-- **(2021-2022)** Inicialmente realice la práctica inicial en Áreas Verdes ubicada en Punta Arenas, la cual es una empresa de recolección de desechos domiciliarios que actualmente tiene la licitación de la comuna. Una vez finalizada, me quedé trabajando en el área de Administración en donde pude poner a prueba mis habilidades de observación para una gestión de calidad , recolección de datos y organización.
+- **(2021)** Tutora del Taller Intermedio de programación en OCILabs con lenguaje C++. Este programa es del Ministerio de 
+              Educación que tiene como fin darles herramientas de aprendizaje en el área de la programación a niños y jóvenes.
+- **(2020-2022)** Ayudante de los cursos INFO063 Introducción a la programación e INFO058 Programación, en los cuales se 
+                  trabaja con el lenguaje Python.
+- **(2021-2022)** Inicialmente realice la práctica inicial en Áreas Verdes ubicada en Punta Arenas, la cual es una empresa de 
+                  recolección de desechos domiciliarios que actualmente tiene la licitación de la comuna. Una vez finalizada, 
+                  me quedé trabajando en el área de Administración en donde pude poner a prueba mis habilidades de observación 
+                  para una gestión de calidad , recolección de datos y organización.
 
 **Áreas de interés**
 
