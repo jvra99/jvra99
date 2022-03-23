@@ -1,6 +1,5 @@
 ### Hola 👋
 
-```
 Mi nombre es Javiera Ester Naranjo Toledo.
 Nací en Santiago, Chile y actualmente estudio en la Universidad Austral de Chile, Valdivia.
 
@@ -39,4 +38,4 @@ E-mail : [javiera.naranjo99@gmail.com](mailto:javiera.naranjo99@gmail.com)
 - Desarrollo de Software.
 - Interacciones Humano-computador.
 - Tecnologías de aprendizaje.
-```
+
