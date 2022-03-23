@@ -7,9 +7,7 @@ E-mail : [javiera.naranjo99@gmail.com](mailto:javiera.naranjo99@gmail.com)
 
 **Antecedentes personales**
 
-- Fecha de nacimiento: Diciembre 24 de 1999
-- Nacionalidad: Chilena
-- Dirección: Dibiagio 280, Valdivia
+- Fecha de nacimiento: Diciembre 24 de 1999.
 - Licencia: clase B
 
 **Antecedentes Académicos**
